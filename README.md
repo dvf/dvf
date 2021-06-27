@@ -1,9 +1,9 @@
-# dvf
+<h1 align="center">dvf</h1>
 
-<p align="left">
-👋 Hello there! I like Python, Bitcoin and Extra Salt.
+<p align="center">
+I like Python, Bitcoin and Extra Salt.
 </p>
-<p align="left">
+<p align="center">
   <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=dvf&show_icons=true">
 </p>
 <p align="center">
